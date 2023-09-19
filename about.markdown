@@ -18,7 +18,7 @@ You will find a collection of quite old [articles, ramblings and unchecked gramm
 You can also find me at:
 
 - the hell site: [@chriskeene posting less and less](http://www.twitter.com/chriskeene/)
-- The site we use to avoid the hell site: [https://mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
+- The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
 - Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
 - [read an exaggerated, yet dull, version of me on Linkedin](http://www.linkedin.com/in/chriskeene)
 - [some old random photos on Flickr](http://flickr.com/photos/chriskeene)
