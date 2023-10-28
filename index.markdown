@@ -15,14 +15,15 @@ My background is in technology in academic libraries, research and higher educat
 
 This website goes somewhat through a boom and bust cycle. That latter currently being the case (and arguable always has been, hence the name). 
 
-You will find a collection of quite old [articles, ramblings and unchecked grammar in something that looks suspiciously like a blog](https://www.nostuff.org/words/).
+You will find a collection of quite old [articles in something that looks suspiciously like a blog](https://www.nostuff.org/words/).
 
 You can also find me at:
 
-- [the hell site](http://www.twitter.com/chriskeene/)
-- [The site we use to avoid the hell site](https://mastodon.social/@chriskeene)
-- [read an exaggerated, yet dull, version of me on Linkedin](http://www.linkedin.com/in/chriskeene)
-- [some random photos on Flickr](http://flickr.com/photos/chriskeene), and also, more selectively, on  [instagram](https://www.instagram.com/chriskeene1/).
+- the hell site: [@chriskeene posting less and less](http://www.twitter.com/chriskeene/)
+- The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
+- Bluesky (no idea): [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
+- Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
+- Some random photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
 - You can contact me by email, chriskeene gmailcom (you can work it out).
 
-Chris Keene, 2023
+

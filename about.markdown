@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![photo of me](assets/images/2017ck3.jpg)
+![photo of me](/assets/images/2017ck3.jpg)
 
 This is the website Chris Keene. I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
 
@@ -20,6 +20,7 @@ You can also find me at:
 - the hell site: [@chriskeene posting less and less](http://www.twitter.com/chriskeene/)
 - The site we use to avoid the hell site: [mastodon.social/@chriskeene](https://mastodon.social/@chriskeene)
 - Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
+- Bluesky (no idea): [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
 - [read an exaggerated, yet dull, version of me on Linkedin](http://www.linkedin.com/in/chriskeene)
 - [some old random photos on Flickr](http://flickr.com/photos/chriskeene)
 - Some random not so old photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
