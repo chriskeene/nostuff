@@ -1,9 +1,4 @@
----
-layout: post
-title:  "nostuff in 2023"
-date:   2023-07-25 18:47:54 +0100
-categories: update
----
+
 This is a quick note to say I've recently moved the main pages of this site to [Jekyll](https://jekyllrb.com/). Previously the homepage was a static html file I edited on the server. The rest a series of wordpress sites, including a wordpress multisite.
 
 It was becoming tedious to maintain, when note really adding anything, and over the years, images and other things had broken, certainly due to mistakes I made when migrating and moving content.

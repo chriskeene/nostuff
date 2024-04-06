@@ -24,6 +24,6 @@ You can also find me at:
 - Bluesky (no idea): [@chriskeene.bsky.social](https://bsky.app/profile/chriskeene.bsky.social)
 - Threads: [@chriskeene1](https://www.threads.net/@chriskeene1)
 - Some random photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
-- You can contact me by email, chriskeene gmailcom (you can work it out).
+- You can contact me by email hello@nostuff.org
 
 

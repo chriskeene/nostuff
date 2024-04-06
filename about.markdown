@@ -24,4 +24,4 @@ You can also find me at:
 - [read an exaggerated, yet dull, version of me on Linkedin](http://www.linkedin.com/in/chriskeene)
 - [some old random photos on Flickr](http://flickr.com/photos/chriskeene)
 - Some random not so old photos on (ahem) 'the gram' or 'insta' or 'instgram' [@chriskeene1](https://www.instagram.com/chriskeene1/)
-- You can contact me by email, chriskeene gmailcom (you can work it out).
+- You can contact me by email: hello@nostuff.org or chriskeene gmailcom (you can work it out).
